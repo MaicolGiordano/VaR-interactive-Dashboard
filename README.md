@@ -10,8 +10,8 @@ In the project i built a simple dashboard for portfolio risk analysis with Histo
 
 
 ## Overview of the features
+The dashboard allows to:
 
-Users can select different assets from a list then:
 - Select multiple assets
 - Define the weights in the portfolio (no shorting allowed)
 - Analyze the risk with different Value at Risk models
